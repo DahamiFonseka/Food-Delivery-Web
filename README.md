@@ -1,7 +1,7 @@
 # Tomato - Food Delivery Web App
 
 ## Overview
-Tomato is a modern and intuitive food delivery web application built with React.js. It enables users to browse menus from various restaurants, add items to their cart, and place orders, all with a responsive design and simple user interactions.
+Tomato is a modern and intuitive food delivery web application built with React.js. It enables users to browse menus from the restaurant, add items to their cart, and place orders, all with a responsive design and simple user interactions.
 
 This project focuses on frontend development, using local storage for temporary order storage, without a backend integration.
 
@@ -21,7 +21,6 @@ This project focuses on frontend development, using local storage for temporary 
 
 ## Technologies Used
 - **Frontend**: React.js
-- **State Management**: Context API
 - **Styling**: Styled Components
 - **Build Tools**: Vite
 - **Local Storage**: For order history and cart persistence
